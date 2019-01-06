@@ -1,4 +1,4 @@
-# ScrewTheory-Geometry4Humanoids
+# ScrewTheoryRobotics-Geometry4Humanoids
 Algo de Geometría para Humanoides - Segunda Edición - Spanish.
 
 Este trabajo aborda la investigación en robótica utilizando técnicas de Geometría Diferencial y Computacional, basadas en la Teoría de Tornillos, Grupos y Álgebras de Lie. Se presentan soluciones cerradas y completas, numéricamente estables, con una clara interpretación geométrica y válidas para aplicaciones en tiempo real.
